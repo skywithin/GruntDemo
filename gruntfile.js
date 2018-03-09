@@ -1,10 +1,11 @@
 // https://gruntjs.com/getting-started
+// https://gruntjs.com/configuring-tasks
 
 module.exports = function(grunt) {
 
     // Project configuration.
     grunt.initConfig({
-        pkg: grunt.file.readJSON('pacage.json'),        
+        pkg: grunt.file.readJSON('package.json'),        
         uglify: {
             options: {
                 banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'

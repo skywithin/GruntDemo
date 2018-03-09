@@ -13,3 +13,6 @@
 # npm install grunt-contrib-uglify --save-dev
 
 -- Add gruntfile.js manually manually.
+-- Configure grunt project and tasks.
+
+-- Add src and build folders.
