@@ -20,3 +20,6 @@
 -- Run grunt demo to minify grunt-demo.js
 # grunt
 
+--Install "concat" and "watch" plugins.
+# npm install grunt-contrib-watch --save-dev
+# install grunt-contrib-concat --save-dev
