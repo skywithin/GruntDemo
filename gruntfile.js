@@ -1,4 +1,10 @@
+// https://gruntjs.com/getting-started
+
 module.exports = function(grunt) {
 
-    // Do grunt-related things here 
+    // Project configuration.
+    grunt.initConfig({
+        pkg: grunt.file.readJSON('pacage.json'),        
+
+    });
 };
