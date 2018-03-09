@@ -1,7 +1,7 @@
 // sample
 
 var obj = {
-    foo: "hi",
-    bar: "test"
+    foo: "hi bro",
+    bar: "this is a test"
 }
 
