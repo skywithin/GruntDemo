@@ -16,3 +16,7 @@
 -- Configure grunt project and tasks.
 
 -- Add src and build folders.
+-- Create /src/grunt-demo.js file with sample code.
+-- Run grunt demo to minify grunt-demo.js
+# grunt
+
