@@ -5,6 +5,9 @@ module.exports = function(grunt) {
     // Project configuration.
     grunt.initConfig({
         pkg: grunt.file.readJSON('pacage.json'),        
-
+        uglify: {
+            options: {},
+            build: {}
+        } // end uglify
     });
 };
